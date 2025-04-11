@@ -4,6 +4,8 @@ import { createPinia } from "pinia";
 import router from "./router/router.js";
 import "./scss/bootstrap.scss";
 import "./scss/styles.scss";
+import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
+import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
 const app = createApp(App);
 const pinia = createPinia();
 app.use(pinia);

@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\models\\vmmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\models\\vmmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Migrations\\20250411163829_add-user-to-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WheaterApp.Server\\Migrations\\20250411163829_add-user-to-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\data\\repositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\data\\repositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\data\\irepositories\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\data\\irepositories\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\data\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\data\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\data\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\data\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\wheaterapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\wheaterapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +74,184 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WheaterApp.Server\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WheaterApp.Server\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBgAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20250411163829_add-user-to-db.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Migrations\\20250411163829_add-user-to-db.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Migrations\\20250411163829_add-user-to-db.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Migrations\\20250411163829_add-user-to-db.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Migrations\\20250411163829_add-user-to-db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:21:42.63Z",
+              "WhenOpened": "2025-04-11T16:38:30.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Models\\VMModels\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Models\\VMModels\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Models\\VMModels\\RegisterVm.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Models\\VMModels\\RegisterVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:35:08.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Data\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Data\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:08:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:07:47.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:12:20.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:05:11.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WheaterApp.Server\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\WeatherForecast.cs",
-              "RelativeToolTip": "WheaterApp.Server\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:21:39.351Z",
+              "WhenOpened": "2025-04-11T16:04:44.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\Repositories\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Data\\Repositories\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\Repositories\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Data\\Repositories\\ApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:19:02.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\IRepositories\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Data\\IRepositories\\IApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\IRepositories\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Data\\IRepositories\\IApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:16:57.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\IRepositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Data\\IRepositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\IRepositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Data\\IRepositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:08:22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\IRepositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\Data\\IRepositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Data\\IRepositories\\IRepository.cs",
+              "RelativeToolTip": "WheaterApp.Server\\Data\\IRepositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:07:36.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Program.cs",
               "RelativeDocumentMoniker": "WheaterApp.Server\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Program.cs",
               "RelativeToolTip": "WheaterApp.Server\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T06:14:01.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\appsettings.json",
+              "RelativeToolTip": "WheaterApp.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T16:06:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WheaterApp.Server.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\WheaterApp.Server.http",
+              "RelativeDocumentMoniker": "WheaterApp.Server\\WheaterApp.Server.http",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\WheaterApp.Server.http",
+              "RelativeToolTip": "WheaterApp.Server\\WheaterApp.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-11T16:04:22.264Z",
               "EditorCaption": ""
             }
           ]

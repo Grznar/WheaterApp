@@ -1,14 +1,13 @@
 <template>
-  <button class="btn btn-primary">Ahoj</button>
+  <div class="d-flex flex-column min-vh-100">
+    <Header></Header>
+    <div class="flex-grow-1"><RouterView /></div>
+
+    <Footer></Footer>
+  </div>
 </template>
 <script setup>
-import axios from "axios";
-axios
-  .get("https://localhost:7165/weatherforecast")
-  .then((response) => {
-    console.log("Data z backendu:", response.data);
-  })
-  .catch((error) => {
-    console.error("Chyba při načítání dat:", error);
-  });
+import { RouterLink, RouterView } from "vue-router";
+import Header from "./components/Header.vue";
+import Footer from "./components/Footer.vue";
 </script>
