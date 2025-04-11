@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "67HBkm2l52pT1c9ORwkE2SA/9Eq4/KOiI3eJnL3QIPU=",
+  "Source": "WheaterApp.Server",
+  "BasePath": "_content/WheaterApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
