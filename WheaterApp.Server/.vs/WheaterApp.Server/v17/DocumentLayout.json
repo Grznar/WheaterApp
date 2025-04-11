@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\wheaterapp\\wheaterapp.server\\wheaterapp.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09381BE-BD58-47CA-8716-025CFD42C1E9}|WheaterApp.Server\\WheaterApp.Server.csproj|solutionrelative:wheaterapp.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "WheaterApp.Server\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "WheaterApp.Server\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T06:21:42.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WheaterApp.Server\\WeatherForecast.cs",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Program.cs",
               "RelativeDocumentMoniker": "WheaterApp.Server\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\WheaterApp\\WheaterApp.Server\\WheaterApp.Server\\Program.cs",
               "RelativeToolTip": "WheaterApp.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T06:14:01.518Z",
               "EditorCaption": ""
